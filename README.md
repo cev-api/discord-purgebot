@@ -83,5 +83,6 @@ Proceed? (Y/N):
 ## Disclaimer
 - This project is for educational and personal use only.
 - **Using self-bots is against Discord's Terms of Service and can result in account termination.**
-- The author is not responsible for any misuse or account bans.
+- I am not responsible for any misuse or account bans.
+- No guarantee of success in deleting everything you plan or want to delete
 
