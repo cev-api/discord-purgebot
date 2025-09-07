@@ -1,4 +1,4 @@
-# Discord Self-Message Deleter
+# Discord Purge - Bulk Delete Your Own Messages!
 
 ![header](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
 ![header](https://img.shields.io/badge/discord.py--self-2.x-magenta?style=flat-square)
