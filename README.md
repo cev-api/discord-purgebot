@@ -3,6 +3,8 @@
 ![header](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
 ![header](https://img.shields.io/badge/discord.py--self-2.x-magenta?style=flat-square)
 
+![Purge](https://i.imgur.com/rt0Y4vF.png)
+
 A professional, Rich-powered terminal app for browsing your Discord servers and channels, and bulk-deleting your own messages with advanced filters and amazingly advanced UI.
 
 ---
@@ -38,47 +40,6 @@ Edit `purgebot.py` and set your token:
 TOKEN = "YOUR_TOKEN_HERE"
 ```
 
-## Example UI
-```
-____  _                   _ _____                 
-|    \|_|___ ___ ___ ___ _| |  _  |_ _ ___ ___ ___ 
-|  |  | |_ -|  _| . |  _| . |   __| | |  _| . | -_|
-|____/|_|___|___|___|_| |___|__|  |___|_| |_  |___|
-                                By CevAPI |___| v1.0 
-
-Your Servers
-┏━━━━━━━┳━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━┓
-┃ Index ┃ Server      ┃                 ID ┃
-┡━━━━━━━╇━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━┩
-│     1 │ RealServer  │ 123456789123456789 │
-└───────┴─────────────┴────────────────────┘
-
-Channels in RealServer
-┏━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━┓
-┃ Index ┃ Channel              ┃ Type ┃
-┡━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━┩
-│     1 │ general              │ text │
-│     2 │ off-topic            │ text │
-└───────┴──────────────────────┴──────┘
-Enter channel number: 2
-
-Delete messages after date (YYYY-MM-DD, blank for none):
-Delete messages before date (YYYY-MM-DD, blank for none):
-Only delete messages containing keyword (blank for none):
-Skip pinned messages? (Y/n):
-Export deleted messages to file (filename or blank for none):
-How many of your last messages to delete? (leave blank for all):
-
-╭─────────────────────────────────────────────────  Confirm Deletion ──────────────────────────────────────────────────╮
-│ About to delete up to all messages from off-topic with filters:                                                      │
-│ After: None, Before: None, Keyword: None, Skip pinned: True, Export: None                                            │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
-
-Proceed? (Y/N):
-
-```
-
----
 
 ## Disclaimer
 - This project is for educational and personal use only.
